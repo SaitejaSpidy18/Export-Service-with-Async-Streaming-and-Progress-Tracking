@@ -1,0 +1,11 @@
+# Ignore exported CSV files
+export_*.csv
+*.csv
+*.gz
+exports/*
+# Ignore generated export files
+exports/
+export_*.csv
+*.csv
+*.gz
+export_753fd261-24e6-43c8-b9f7-9a5be4926c9a.csv
